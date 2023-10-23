@@ -8,9 +8,5 @@
 import Foundation
 
 extension CGFloat {
-    static let headerFont: CGFloat = 32
-    static let textFont: CGFloat = 18
-    static let buttonFont: CGFloat = 22
-    static let titleFont: CGFloat = 28
     static let buttonCornerRadius: CGFloat = 12
 }
